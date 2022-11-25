@@ -3,7 +3,7 @@ CUSTOMER-TRANSACTION-PREDICTION
 
 El banco Santander busca entender mejor a sus clientes, de forma tal que pueda ofrecerles los productos que les permitan alcanzar sus metas financieras. Es por ello que con este dataset se busca predecir cuáles son los clientes que van a realizar una determinada transacción en el futuro, independientemente del monto de dicha transacción.
 
-Project Organization
+Organización del Proyecto
 ------------
 
     ├── LICENSE
